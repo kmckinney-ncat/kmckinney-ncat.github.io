@@ -1,0 +1,15 @@
+.external-style-body {
+    background-color: #fafafa;
+    }
+
+    .external-h1{
+        text-align: center;
+        color: #84d4fa;
+    }
+
+    .external-nav-table {
+        margin: 0 auto;
+        border-collapse: collapse;
+        width: 100%;
+        background-color: #fafafa;
+    }
