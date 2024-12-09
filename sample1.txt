@@ -1,13 +1,13 @@
  [
-        { "name": "NSBE"},
-        { "name": "SWE"},
-        { "name": "Women in Science and Technology"},
-        { "name": "BMES"},
-        { "name": "WEEVOLVE"},
-        { "name": "Verge Modeling Troupe"},
-        { "name": "SUAB"},
-        { "name": "COP"},
-        { "name": "NCNW"}
+        { "name": "NSBE", "description": "Academic"},
+        { "name": "SWE", "description": "Academic"},
+        { "name": "Women in Science and Technology", "description": "Academic"},
+        { "name": "BMES", "description": "Academic"},
+        { "name": "WEEVOLVE", "description": "Community"},
+        { "name": "Verge Modeling Troupe", "description": "Performance"},
+        { "name": "SUAB", "description": "Campus"},
+        { "name": "COP", "description": "Campus"},
+        { "name": "NCNW", "description": "Service"}
     ]
 
 
