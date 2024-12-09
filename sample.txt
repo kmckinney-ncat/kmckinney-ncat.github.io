@@ -1,0 +1,10 @@
+[
+  { "name": "Art Club", "description": "A place for creative minds to explore art." },
+  { "name": "Science Club", "description": "Dive into experiments and scientific discovery." },
+  { "name": "Drama Club", "description": "Express yourself through acting and performances." },
+  { "name": "Music Club", "description": "For those who love playing and appreciating music." },
+  { "name": "Sports Club", "description": "Stay active and competitive with various sports." }
+]
+
+
+
