@@ -1,2 +1,6 @@
+[
+  {"name": "Art Club", "description": "A club for art enthusiasts."},
+  {"name": "Science Club", "description": "Explore the wonders of science."}
+]
 
-Hello My Name is Kandis M!
+
